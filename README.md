@@ -8,6 +8,6 @@ git commit -m "hello"
 
 git push
 
-ivan
+git pull
 
 # webfejleszt-
